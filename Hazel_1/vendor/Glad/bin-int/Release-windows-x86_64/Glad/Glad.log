@@ -1,0 +1,3 @@
+﻿cl : 命令行  warning D9025: 正在重写“/MTd”(用“/MT”)
+  glad.c
+  Glad.vcxproj -> C:\Users\COLORFUL\Desktop\source\GameEngine\Hazel_1\Hazel_1\vendor\Glad\bin\Release-windows-x86_64\Glad\Glad.lib
